@@ -1,3 +1,20 @@
-.contenedor-principal {
-    background-color: blueviolet;
+.social-media {
+    background-color: rgb(26, 24, 24);
+    width: min(640px, 92vw);
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    border-radius: 28px;
 }
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #1d1a39;
+  background: linear-gradient(to bottom right, #1d1a39, #c43f16, #1d1a39);
+}
+
